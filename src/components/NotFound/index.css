@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.wrong-bg {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 5px;
+}
+
+.wrong-img {
+  height: 140px;
+  width: 140px;
+  margin: 5px;
+}
+
+.wrong-head {
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 30px;
+  color: black;
+}
+
+.wrong-para {
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: black;
+}
